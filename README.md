@@ -1,8 +1,18 @@
+## Arianna
+
+Hi there!
+
+I am a Full Stack Developer with 3+ years of experience.
+My primary focus is on building web applications using 💻 JavaScript, Java, HTML, PHP and CSS.
+I have expertise in using 🔥 ReactJS, NextJS, AngulerJS Laravel frameworks and libraries.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=success680&layout=compact)](https://github.com/success680/github-readme-stats)
+
 ## Connect Me
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/axe_tiny)
-[![Portfolio](https://img.shields.io/badge/-MyPortfolio-grey?style=flat-square&logo=vercel&logoColor=white)](https://CodeBag0923.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-3e91a3?style=flat-square&logo=Minutemailer&logoColor=white)](mailto:codemaven0923@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-MyPortfolio-grey?style=flat-square&logo=vercel&logoColor=white)](https://error/vercel.app/)
+[![Email](https://img.shields.io/badge/-Email-3e91a3?style=flat-square&logo=Minutemailer&logoColor=white)](mailto:successvictory680@gmail.com)
 
 📊 You can find my open source contributions. I welcome and appreciate any contributions to my repositories! 🤝
 
