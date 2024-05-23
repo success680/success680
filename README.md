@@ -2,7 +2,7 @@
 
 Hi there!
 
-I am a Full Stack Developer with 3+ years of experience.
+I am a Full Stack Developer with 5+ years of experience.
 My primary focus is on building web applications using 💻 JavaScript, Java, HTML, PHP and CSS.
 I have expertise in using 🔥 ReactJS, NextJS, AngulerJS Laravel frameworks and libraries.
 
