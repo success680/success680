@@ -18,4 +18,18 @@ I have expertise in using 🔥 ReactJS, NextJS, AngulerJS Laravel frameworks and
 
 [![Vasu's GitHub stats](https://github-readme-stats.vercel.app/api?username=success680&theme=prussian&show_icons=true)](https://github.com/success680/github-readme-stats)
 
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=success680&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=success680&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+</tr>
+</table>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=success680&theme=tokyonight" />
+</p>
+<br>
+<br>
+
 🎉 Thanks for stopping by! Let's connect and work on some cool projects together. 🚀
