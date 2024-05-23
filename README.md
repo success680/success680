@@ -21,14 +21,11 @@ I have expertise in using 🔥 ReactJS, NextJS, AngulerJS Laravel frameworks and
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=success680&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=success680&theme=tokyonight" />
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=success680&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
 </table>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=success680&theme=tokyonight" />
-</p>
 <br>
 <br>
 
